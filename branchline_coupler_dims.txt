@@ -1,0 +1,14 @@
+Branchline coupler arm dimensions
+
+- Each arm is 1/4 wavelength
+- Top and bottom arms are Z0/sqrt(2) or about 35.36 ohms
+- Left and right arms are Z0 = 50 ohms
+
+On 4PCB 4-layer substrate, 2x 2116, 2x 2116 (ground plane is top inner, signal is top outer):
+
+Vertical arm dimensions at 1249 MHz: 0.3806 mm x 34.203 mm
+Horizontal arm dimensions *: 0.6600 mm x 33.146 mm
+
+Vertical arm dimensions at 3370 MHz: 0.3805 mm x 12.669 mm 
+Horizontal arm dimensions *: 0.6599 mm x 12.276 mm
+

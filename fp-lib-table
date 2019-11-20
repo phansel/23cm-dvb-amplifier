@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name gva-pha202amp)(type KiCad)(uri ${KIPRJMOD}/gva-pha202amp.pretty)(options "")(descr ""))
+)
